@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tpdutra
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new Python projects
+- 🌱 I’m currently learning Python and Java 
+- 💞️ I’m looking to collaborate on new Python and Java projects
 - 📫 How to reach me +351 915415100
 
 <!---
